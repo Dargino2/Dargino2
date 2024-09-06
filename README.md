@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dargino2
-- 👀 I’m interested in ... everyone :)
+- 👀 I’m interested in ... everyone ;)
 - 🌱 I’m currently learning ... how to use git
 - 💞️ I’m looking to collaborate on ... ascending to the astral plane
 - 📫 How to reach me ... please don't
